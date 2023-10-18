@@ -61,6 +61,7 @@ a {
 }
 /* -- NFT Img -- */
 #NFT > #NFT-img {
+  height: 320px;
   border-radius: 0.8rem;
   overflow: hidden;
   cursor: pointer;

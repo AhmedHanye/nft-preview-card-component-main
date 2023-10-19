@@ -66,6 +66,7 @@ a {
   overflow: hidden;
   cursor: pointer;
   position: relative;
+  z-index: 1;
 }
 #NFT > #NFT-img > i {
   position: absolute;
@@ -77,6 +78,7 @@ a {
   cursor: pointer;
   opacity: 0;
   transition: 0.3s;
+  z-index: 3;
 }
 #NFT > #NFT-img::after {
   content: "";
@@ -88,6 +90,7 @@ a {
   opacity: 0;
   background-color: var(--cyan);
   transition: 0.3s;
+  z-index: 2;
 }
 #NFT > #NFT-img:hover::after {
   opacity: 0.3;

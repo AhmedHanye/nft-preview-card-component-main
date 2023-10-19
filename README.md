@@ -3,7 +3,6 @@
 This project is a Frontend Mentor challenge solution, creating an NFT preview card component.
 
 ![Equilibrium NFT](./preview.png)
-link to the website : https://ahmedhanye.github.io/nft-preview-card-component-main/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -17,7 +16,7 @@ This project is a solution to the Frontend Mentor challenge, which involved crea
 
 ## Demo
 
-You can see the live demo of this project [here](#).
+You can see the live demo of this project [here](https://ahmedhanye.github.io/nft-preview-card-component-main/).
 
 ## Features
 

@@ -17,7 +17,7 @@ this component is a solution to a challenge from Frontend Mentor. The challenge 
 - Clone the repository
 
 ```bash
-git clone https://github.com/AhmedHanye/nft-preview-card-component-main.git
+https://github.com/AhmedHanye/nft-preview-card-component-main.git
 ```
 
 - Open the `index.html` file in your browser
